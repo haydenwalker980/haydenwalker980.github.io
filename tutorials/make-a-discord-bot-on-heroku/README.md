@@ -13,4 +13,6 @@ I'll teach you how to start.
 
 First, make your application at the [Discord Developer Portal](https://discord.com/developers/applications).
 Here is an example:
-![Example](./tutorials/make-a-discord-bot-on-heroku/img/discord-dev-1.png)
+![Example](./tutorials/make-a-discord-bot-on-heroku/img/Screenshot 2020-07-09 at 5.24.44 AM.png)
+
+

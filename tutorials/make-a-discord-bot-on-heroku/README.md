@@ -28,3 +28,5 @@ That's all. You don't have to touch another thing but the "Deploy App" button, j
 **Voila! You have a working Discord bot.**
 
 The default prefix for this template is `.`, but you can change this using `.defprefix newprefix` and replace `newprefix` with your new prefix.
+
+Read some tips [here](https://haydenwalker980.github.io/tutorials/making-a-heroku-discord-bot/tips)!

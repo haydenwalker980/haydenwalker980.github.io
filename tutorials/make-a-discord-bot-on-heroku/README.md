@@ -15,7 +15,7 @@ First, make your application at the [Discord Developer Portal](https://discord.c
 
 Next, navigate to your **Bot** section and copy your bot token.
 
-Meanwhile, fire up Heroku, create an account, then use [this beginner template](https://heroku.com/deploy?https://github.com/ScarletKuro/NadekoBot-Heroku-Auto-Deploy).
+Meanwhile, fire up Heroku, create an account, then use [this beginner template](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FScarletKuro%2FNadekoBot-Heroku-Auto-Deploy&template=https%3A%2F%2Fgithub.com%2FScarletKuro%2FNadekoBot-Heroku-Auto-Deploy).
 
 In `SELFBOT_TOKEN`, paste the token we generated.
 
